@@ -18,3 +18,4 @@ Be sure to subscribe to our YouTube channel for more videos like this!
   <img src="https://contributors-img.web.app/image?repo=byprogrammers/lets-code-react-native" />
 </a>
 
+Chamathka Lakshan
